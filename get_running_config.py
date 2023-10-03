@@ -1,3 +1,7 @@
+# Python Script used to update export the running configuration of a Cisco IOS device.
+# Date October 3, 2023 using MS Visual Studio
+# Contributors on GitHub, shepherdjay, sudoursa and paidegua
+
 #import modules to run the commands below
 import paramiko
 import getpass
